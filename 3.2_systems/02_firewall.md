@@ -1,4 +1,4 @@
-# Lab 6 --- Basic Firewall Configuration
+# Basic Firewall Configuration
 
 ## Task 1 --- Install the Firewall
 

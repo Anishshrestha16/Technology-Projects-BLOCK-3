@@ -1,4 +1,4 @@
-# Lab 4 --- Phishing Investigation
+# Phishing Investigation
 
 ## Task 1 --- Analyse a Suspicious Email
 

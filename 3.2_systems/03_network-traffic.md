@@ -1,4 +1,4 @@
-# Lab 5 --- Observing Network Traffic on Rapsberry Pi
+# Observing Network Traffic on Rapsberry Pi
 
 ## Task 1 --- Install tcpdump
 
