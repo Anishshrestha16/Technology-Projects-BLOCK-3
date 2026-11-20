@@ -34,7 +34,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e4d2b781-9e3f-463d-a598-aa82d804ae02" />
 
 ### Questions
 
@@ -55,7 +56,8 @@ Run:
     ss -tuln
 
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/894b894a-6909-4c65-8a71-99f>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7887d63c-8dca-4ddb-83c8-16d5405f8eed" />
+
 
 
 
