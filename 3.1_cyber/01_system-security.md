@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a24230e-d766-4155-874e-00a>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/68c369ab-9743-4c45-bf07-a0048497eba4" />
+
 
 
 ### Questions
